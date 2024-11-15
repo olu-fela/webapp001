@@ -1,0 +1,1 @@
+"[server]\nheadless = true\nport = 10000\n\n[browser]\nserverAddress = '0.0.0.0'\nserverPort = 10000" 
